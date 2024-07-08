@@ -1,10 +1,10 @@
 ### Hi there 👋, My name is MD. Jamir Uddin Jewel
 #### Programmer 💻
-I am a student of Computer Science and Engineering(CSE) in Southern University Bangladesh. I have experience with several programming languages, including C,Java, and JavaScript.
+I am a student of Computer Science and Engineering(CSE) in Southern University Bangladesh. I have experience with several programming languages, including C,C++,and Java.
 
-After graduation, I hope to work as a software engineer at a tech company, where I can continue to develop my skills and contribute to innovative projects. In my free time, I enjoy learning about new technologies in the field.
+After graduation, I hope to work as a software engineer at a tech company, where I can continue to develop my skills and contribute to innovative projects,In sha Allah. In my free time, I enjoy learning about new technologies in the field.
 
-Skills: Problem Solving  in C and Java.
+Skills: Problem Solving  in C,C++ and Java.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-ju-jewel)  
