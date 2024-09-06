@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is MD. Jamir Uddin Jewel
-#### Programmer 💻
-I am a student of Computer Science and Engineering(CSE) in Southern University Bangladesh. I have experience with several programming languages, including C,C++,and Java.
+#### Aspiring Software Engineer  💻
+I am a student of Computer Science and Engineering(CSE) in Southern University Bangladesh. I have experience with several programming languages, including C,C++,Java,Python.
 
 After graduation, I hope to work as a software engineer at a tech company, where I can continue to develop my skills and contribute to innovative projects,In sha Allah. In my free time, I enjoy learning about new technologies in the field.
 
