@@ -4,7 +4,7 @@ I am a student of Computer Science and Engineering(CSE) in Southern University B
 
 After graduation, I hope to work as a software engineer at a tech company, where I can continue to develop my skills and contribute to innovative projects,In sha Allah. In my free time, I enjoy learning about new technologies in the field.
 
-Skills: Problem Solving  in C,C++ and Java.
+Skills: Problem Solving  in C,C++ and Java,Beggener in DSA
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/md-ju-jewel)  
